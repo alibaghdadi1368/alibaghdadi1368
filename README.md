@@ -13,9 +13,13 @@ Applied Sciences Utrecht.
 #### 🔧 What I work with
 
 **Cloud & Data Platforms:** AWS · Snowflake
+
 **Languages & Pipelines:** Python · SQL · Kafka · Airflow
+
 **Databases:** PostgreSQL · Oracle · SQL Server
+
 **Data Modeling:** Dimensional modeling · Slowly Changing Dimensions (SCD)
+
 **Infrastructure:** Docker · Git
 
 ---
